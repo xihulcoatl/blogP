@@ -1,5 +1,7 @@
 body { font-family: arial, helvetica, sans-serif; color: #000000; margin: 0px;}
 
-h1 { font-size: 22px; font-weight: bold; color: #ff0000; text-decoration: underline; text-align: center; }
+h1 { font-size: 28px; font-weight: bold; color: #000000; text-decoration: underline; text-align: center; }
 
-h2 { font-size: 17px; font-weight: bold; color: #ff3300; text-decoration: underline; text-align: center; }
+h2 { font-size: 22px; font-weight: bold; color: #ff3300; text-decoration: underline; text-align: left; }
+
+p { font-size: 17px; font-weight: bold; color: #000000; text-align: center; }
